@@ -1,1 +1,4 @@
-# Markov-for-BLDC-PositionEncoders
+﻿# Markov-for-BLDC-PositionEncoders
+
+
+![](./compare.png)
